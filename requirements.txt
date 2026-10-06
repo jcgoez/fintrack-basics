@@ -1,0 +1,2 @@
+# Python dependencies for TECH5 Hands-on Lab
+pytest>=7.4.0
